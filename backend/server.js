@@ -45,7 +45,7 @@ app.post("/send-sos", async (req, res) => {
       sosMessages[Math.floor(Math.random() * sosMessages.length)];
     const message = await client.messages.create({
       body: randomMessage,
-      from: "+15732675589",
+      from: "+12728923664",
       to: req.body.to,
     });
 

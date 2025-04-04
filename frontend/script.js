@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function sendSOS() {
-    fetch("https://elderease-1.onrender.com/send-sos", {  // Ensure backend is running at this URL
+    fetch("http://localhost:5000/send-sos", {  // Ensure backend is running at this URL
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ 
