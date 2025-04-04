@@ -3,7 +3,7 @@
 
 # ElderEase 👴👵 - AI-Powered Elderly Care & Safety Companion
 
-![WhatsApp Image 2025-03-16 at 19 52 24_809ec779](https://github.com/user-attachments/assets/7287a1ad-ca32-4710-b317-49f5a5f5cf5a)
+https://github.com/Mayukh0108/Hacknovate/blob/main/Screenshot%202025-04-05%20012755.png?raw=true
 
 
 Ensuring Safety, Health & Connection: Your Smart Care Partner for Seniors. ❤️‍🩹🚨
