@@ -3,7 +3,7 @@
 
 # ElderEase 👴👵 - AI-Powered Elderly Care & Safety Companion
 
-https://github.com/Mayukh0108/Hacknovate/blob/main/Screenshot%202025-04-05%20012755.png?raw=true
+[https://github.com/Mayukh0108/Hacknovate/blob/main/Screenshot%202025-04-05%20012755.png?raw=true](https://github.com/Mayukh0108/Hacknovate/blob/main/Screenshot%202025-04-05%20012755.png?raw=true)
 
 
 Ensuring Safety, Health & Connection: Your Smart Care Partner for Seniors. ❤️‍🩹🚨
