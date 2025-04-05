@@ -117,8 +117,8 @@ node server.js
 We welcome contributions! Please check our **[contribution guidelines](https://github.com/Mayukh0108/Elderly-care/blob/main/CONTRIBUTING.md)** to get started.
 
 ## 📬 Contact Us
-👤 **Mayukh Mondal** (Team Lead) - [mayukhm796@gmail.com](mailto:mayukhm796@gmail.com)  
-👤 **Saujanya Das** (Full Stack Developer) - [dassaujanya1911@gmail.com](mailto:dassaujanya1911@gmail.com)  
+👤 **Saujanya Das** (Team Lead) - [dassaujanya1911@gmail.com](mailto:dassaujanya1911@gmail.com) 
+👤 **Mayukh Mondal** (Full Stack Developer) - [mayukhm796@gmail.com](mailto:mayukhm796@gmail.com)  
 👤 **Sebanti Dasgupta** (Backend Developer) - [dasguptasebanti2003@gmail.com](mailto:dasguptasebanti2003@gmail.com)  
 👤 **Arpan Chowdhury** (Frontend & ML Developer) - [arpanchowdhury003@gmail.com](mailto:arpanchowdhury003@gmail.com)  
 
